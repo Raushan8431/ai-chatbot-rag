@@ -1,10 +1,10 @@
-# 🤖 AI Chatbot using RAG (Retrieval-Augmented Generation)
+# AI Chatbot using RAG (Retrieval-Augmented Generation)
 
-## 📌 Project Overview
+## Project Overview
 This project is an AI-powered chatbot that answers user questions by retrieving
 relevant information from uploaded documents using a RAG approach.
 
-## 🚀 Features
+## Features
 - Document-based Question Answering
 - Supports PDF/Text documents
 - Uses Vector Database (FAISS)
@@ -12,7 +12,7 @@ relevant information from uploaded documents using a RAG approach.
 - Streamlit Web UI
 - Fast and accurate responses
 
-## 🛠️ Tech Stack
+## Tech Stack
 - Python
 - Streamlit
 - LangChain
@@ -20,6 +20,6 @@ relevant information from uploaded documents using a RAG approach.
 - HuggingFace Embeddings
 - Groq / OpenAI / Gemini API
 
-## ⚙️ Installation
+## Installation
 ```bash
 pip install -r requirements.txt
